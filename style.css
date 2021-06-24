@@ -1,0 +1,81 @@
+* {
+    margin: 0 auto;
+    font-family: Times, sans-serif;
+}
+
+.container {
+    width: 70%;
+}
+
+h1  {
+    font-size: 32px;
+    margin: 20px;
+}
+
+.history_block {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-end;
+   align-content: flex-end;
+   justify-content: space-between;
+}
+
+.history_text {
+    width: 65%;
+    margin: 0;
+    padding-right: 60px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+h3 {
+    margin: 15px 0;
+}
+
+.image_name {
+    margin-top: 0;
+    font-style: italic;
+}
+
+.foundation_image {
+    float: right;
+    margin: 30px 10px 10px;
+}
+
+.XXcentury_image {
+   float: right;
+   margin: 40px 40px 10px;
+}
+
+.physics_image {
+    float: right;
+    margin: 100px 10px 10px;
+}
+
+TABLE {
+    border-collapse: collapse; 
+   }
+   TD, TH {
+    padding: 3px;
+    border: 4px double black; 
+}
+
+.florafauna_image {
+    float: right;
+    margin: 55px 10px 10px;
+}
+
+.shipchannel_block {
+    margin-top: 50px;
+}
+
+.economy_table {
+    padding-right: 120px;
+}
+
+.shipchannel_image {
+    float: right;
+    margin-left: 40px;
+}
